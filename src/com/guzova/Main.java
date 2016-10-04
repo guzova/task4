@@ -33,7 +33,7 @@ public class Main {
         System.out.println("Алгебраическая запись комплексного числа:");
         System.out.println("a: " + a);
         System.out.println("b: " + b);
-        System.out.println();
+        System.out.println("");
         System.out.println("a + b = " + Complex.add(a,b));
         System.out.println("a * b = " + Complex.mul(a,b));
         System.out.println("b / a = " + Complex.div(b,a));
