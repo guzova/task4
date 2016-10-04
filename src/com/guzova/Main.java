@@ -27,10 +27,10 @@ public class Main {
     }
 
     static void previewOperators(Complex a, Complex b) {
-        System.out.println("Тригонометрическая запись комплексного числа: ");
+        System.out.println("Тригонометрическая запись комплексного числа:");
         System.out.println("a: " + a.toPolar());
         System.out.println("b: " + b.toPolar());
-        System.out.println("Алгебраическая запись комплексного числа: ");
+        System.out.println("Алгебраическая запись комплексного числа:");
         System.out.println("a: " + a);
         System.out.println("b: " + b);
         System.out.println();
